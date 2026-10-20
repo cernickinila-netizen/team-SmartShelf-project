@@ -20,7 +20,7 @@
 
 ## 2. Ссылка на командный репозиторий
 
-Создан единый репозиторий с названием формата `team-<название_команды>-project`:
+Создан единый репозиторий с названием формата `team-SmartShelf-project`:
 
 🔗 **Ссылка:** [https://github.com/cernickinila-netizen/team-SmartShelf-project](https://github.com/cernickinila-netizen/team-SmartShelf-project)
 
