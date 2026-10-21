@@ -1,4 +1,5 @@
-# Самостоятельная работа 3. Определение целевой аудитории
+# Самостоятельная работа 3. Определение целевой аудитории 
+Опрос: https://vk.ru/away.php?to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScGrBk26upTTpLEcyQqxWRNcj05d_npHhxe4Cj7IRGevXXzjg%2Fviewform&utf=1
 
 **Проект:** «Сервис рекомендации книг»
 **Группа:** 5
